@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+}
+div{
+    margin: 50px, auto, auto, 100px;
+    border-width: 2px;
+    border-color: black;
+    border-radius: 15px;
+}
